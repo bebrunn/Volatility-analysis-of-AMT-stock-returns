@@ -13,7 +13,9 @@ This project estimates and compares several econometric models analyzing the vol
 3. **Forecasting Performance**: 
    - Out-of-sample forecasting performance is compared using both rolling and expanding window forecasting schemes to assess which models offer the best predictive power.
 
-This project is a part of the Financial Econometrics I course, authored by Pavlína Křenková and Bernhard Brunner.
+This project is a part of the Financial Econometrics I course, authored by Pavlína Křenková and Bernhard Brunner. 
+
+The Jupyter Notebook is located in this repository's code folder.
 
 ## Installation
 
